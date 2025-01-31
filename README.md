@@ -11,15 +11,15 @@
 
 <div align="left">
   <h2>Let's Connect!</h2>
-  <a href="https://www.linkedin.com/in/atabeyaykut/" target="_blank">
+  <a href="https://www.linkedin.com/in/barisgol/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
   </a>
-  <a href="https://www.instagram.com/kantlori/" target="_blank">
+  <a href="https://www.instagram.com/itis.mino/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8B5CF6"/>
   </a>
 </div>
 
-Got an awesome idea or a challenging project? Reach out to me at [**Mail**](mailto:atabeyaykutt@gmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/atabeyaykut/). I'm always excited to collaborate on interesting projects or discuss Front-End development ideas!
+Got an awesome idea or a challenging project? Reach out to me at [**Mail**](mailto:bariss.gol@gmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/barisgol/). I'm always excited to collaborate on interesting projects or discuss Front-End development ideas!
 
 <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=110&section=footer" />
